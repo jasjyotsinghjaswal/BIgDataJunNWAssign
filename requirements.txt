@@ -1,0 +1,6 @@
+pyspark
+pandas
+tabulate
+smartsheet-python-sdk
+boto3
+hdfs
